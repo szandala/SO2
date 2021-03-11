@@ -1,5 +1,22 @@
 #!/bin/bash
 
+
+# co tu zrobilismy:
+#Napisz skrypt, który przeczyta zadany plik,
+#utworzy katalog o nazwie „sakwa”
+#i utworzy w nim pliki o nazwach odpowiadających kolejnym linijkom w pliku.
+#
+#Jeżeli plik „sakwa” istnieje i jest katalogiem, należy go usunąć przed rozpoczęciem pracy.
+#Potem wypisz zawartość „sakwy” po kolei, pisząc:
+#mam NAZWA_PLIKU1
+#mam NAZWA_PLIKU2
+#mam NAZWA_PLIKU3
+
+
+
+
+
+
 PLIK=${1}
 
 # Jeżeli plik „sakwa” istnieje i jest katalogiem, należy go usunąć przed rozpoczęciem pracy.
@@ -7,7 +24,7 @@ PLIK=${1}
 if [[ -d sakwa ]]; then
     rm -r sakwa
 fi
-cd pies
+
 mkdir sakwa
 
 LISTA=$(cat "${PLIK}")
