@@ -1,7 +1,7 @@
 #!/bin/bash -eu
 
 if [[ -z "${1:-}" ]]; then
-    echo "Podaj nazwe katalogu, jaki mam utworzyc"
+    echo -e "Podaj nazwe katalogu, jaki mam utworzyc, np.:\n\n\t./kanai_cube.sh lab_uno\n"
     exit 1
 fi
 
