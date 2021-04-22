@@ -1,0 +1,14 @@
+
+==================================================
+| Title: Doctor Strange
+| Year: 2016
+| Runtime: 115 min
+| IMDB: 7.5/10
+| Tomato: 89%
+| Rated: PG-13
+| Genre: Action, Adventure, Fantasy
+| Director: Scott Derrickson
+| Actors: Benedict Cumberbatch, Chiwetel Ejiofor, Rachel McAdams, Benedict Wong
+| Plot: While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.
+==================================================
+

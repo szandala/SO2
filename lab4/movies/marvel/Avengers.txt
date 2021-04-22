@@ -1,0 +1,14 @@
+
+==================================================
+| Title: The Avengers
+| Year: 2012
+| Runtime: 143 min
+| IMDB: 8.1/10
+| Tomato: 92%
+| Rated: PG-13
+| Genre: Action, Adventure, Sci-Fi
+| Director: Joss Whedon
+| Actors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+| Plot: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+==================================================
+

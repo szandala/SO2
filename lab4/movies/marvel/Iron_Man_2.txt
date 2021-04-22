@@ -1,0 +1,14 @@
+
+==================================================
+| Title: Iron Man 2
+| Year: 2010
+| Runtime: 124 min
+| IMDB: 7.0/10
+| Tomato: 73%
+| Rated: PG-13
+| Genre: Action, Adventure, Sci-Fi
+| Director: Jon Favreau
+| Actors: Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Scarlett Johansson
+| Plot: With the world now aware of his identity as Iron Man, Tony Stark must contend with both his declining health and a vengeful mad man with ties to his father's legacy.
+==================================================
+

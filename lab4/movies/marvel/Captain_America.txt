@@ -1,0 +1,14 @@
+
+==================================================
+| Title: Captain America: The First Avenger
+| Year: 2011
+| Runtime: 124 min
+| IMDB: 6.9/10
+| Tomato: 80%
+| Rated: PG-13
+| Genre: Action, Adventure, Sci-Fi
+| Director: Joe Johnston
+| Actors: Chris Evans, Hayley Atwell, Sebastian Stan, Tommy Lee Jones
+| Plot: Steve Rogers, a rejected military soldier transforms into Captain America after taking a dose of a "Super-Soldier serum". But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.
+==================================================
+

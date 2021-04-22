@@ -1,0 +1,14 @@
+
+==================================================
+| Title: Iron Man
+| Year: 2008
+| Runtime: 126 min
+| IMDB: 7.9/10
+| Tomato: 94%
+| Rated: PG-13
+| Genre: Action, Adventure, Sci-Fi
+| Director: Jon Favreau
+| Actors: Robert Downey Jr., Terrence Howard, Jeff Bridges, Gwyneth Paltrow
+| Plot: After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.
+==================================================
+
