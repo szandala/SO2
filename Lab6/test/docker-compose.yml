@@ -1,0 +1,41 @@
+version: "3.7"
+services:
+    app:
+        depends_on: database
+        build: ./
+        ports:
+        - "${THE_PORT:-5000}:5000"
+        volumes:
+        - "./:/code"
+
+
+    database:
+        image: "mongo"
+        volumes:
+        - "mongo_volume:/data/db"
+
+volumes:
+    mongo_volume:
+
+
+
+# chcę byście po tych zjęciach potrafili odpowiedzieć sobie na ... ważne pytania:
+# 1. Co to jest pip?
+# 2. Co to jest python virtualenv / venv?
+# 3. Czy wiem, że jest coś takiego jako dekorator w Pythonie? (polecam też wiedzieć co to "generator", ale nie było tego)
+# 4. Czym różni się kontener odd wirtualnej maszyny? (słowo klucz: "kernel")
+# 5. Dockerfile, a w nim polecenia:
+#     a. FROM ... (jest jeszcze "FROM ... AS ...", ale to dla chętnych)
+#     b. RUN
+#     c. ADD
+#     d. WORKDIR
+#     e. ENV
+#     f. ENTRYPOINT
+# 6. Polecenia dockerowe:
+#     a. run i flagi "-v" i "-p"
+#     b. build i flaga "-t"
+#     c. ps i ps -a
+#     d. exec -it
+#     e. przydadzą się Wam też: logs, rm, rmi, prune, ale to sami z czasem załapiecie
+# 7. Persistent data w kontenerach
+# 8. Co to "docker-compose"?
