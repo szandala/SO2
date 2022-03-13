@@ -8,8 +8,8 @@ fi
 mkdir "${1}"
 cd "${1}"
 
-RECIPES=(skill_of_nilfur hope_of_cain
-    work_of_cathan caldesann_despair natala_prayer
+RECIPES=(skill_of_nilfur hope_of_datco
+    work_of_cathan seraphin_despair shandala_prayer
     law_of_kulle blessing_of_caban darkness_of_radament
     archive_of_tal_rasha not_the_cow_level)
 
