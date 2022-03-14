@@ -1,4 +1,7 @@
-Napisać skrypt, który w zadanym katalogu, na podstawie pliku regularnego z przedmiotami (jeden przedmiot w linijce) utworzy je jako pliki regularne lub katalogi (na przemian). Potem iterując po utworzonych plikach wypisze na ekran:
+Napisać skrypt, który w zadanym katalogu, na podstawie
+pliku regularnego z przedmiotami (jeden przedmiot w linijce)
+utworzy je jako pliki regularne lub katalogi (na przemian).
+Potem iterując po utworzonych plikach wypisze na ekran:
 Katalog: <nazwa_katalogu>
 lub
 Plik regularny: <nazwa_pliku>
