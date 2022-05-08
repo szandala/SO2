@@ -1,0 +1,14 @@
+
+==================================================
+| Title: Avengers: Age of Ultron
+| Year: 2015
+| Runtime: 141 min
+| IMDB: 7.4/10
+| Tomato: 75%
+| Rated: PG-13
+| Genre: Action, Adventure, Sci-Fi
+| Director: Joss Whedon
+| Actors: Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans
+| Plot: When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's mightiest heroes to stop the villainous Ultron from enacting his terrible plan.
+==================================================
+

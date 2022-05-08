@@ -1,0 +1,14 @@
+
+==================================================
+| Title: Iron Man 3
+| Year: 2013
+| Runtime: 130 min
+| IMDB: 7.2/10
+| Tomato: 80%
+| Rated: PG-13
+| Genre: Action, Adventure, Sci-Fi
+| Director: Shane Black
+| Actors: Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Guy Pearce
+| Plot: When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.
+==================================================
+
