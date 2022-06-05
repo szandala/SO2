@@ -1,0 +1,19 @@
+version: "3.7"
+
+services:
+  frontend:
+    build:
+      context: ./frontend
+    image: szandala-frontend-image
+    ports:
+    - 3000:3000
+    volumes:
+    - ./frontend:/app
+
+  # database:
+  #   image: mongo:5.0.9
+  #   environment:
+  #   - MONGO_INITDB_ROOT_PASSWORD=manners_maketh_man
+  #   - MONGO_INITDB_ROOT_USERNAME=mongoadmin
+  #   volumes:
+  #   - ./database:/data/db
