@@ -11,7 +11,7 @@ cd "${1}"
 RECIPES=(skill_of_nilfur hope_of_datco
     work_of_angered seraphin_despair shandala_prayer
     law_of_kulle blessing_of_caban darkness_of_radament
-    archive_of_iron_name not_the_cow_level)
+    archive_of_iron_man not_the_cow_level)
 
 for RECIPE in ${RECIPES[@]}; do
     [[ $((RANDOM % 2)) -eq 0 ]] && { mkdir "${RECIPE}"; touch "${RECIPE}/some_content"; } || touch "${RECIPE}"
